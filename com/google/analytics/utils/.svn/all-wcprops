@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/32/trunk/com/google/analytics/utils
+END
+UserAgent.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/com/google/analytics/utils/UserAgent.as
+END
+Timespan.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/trunk/com/google/analytics/utils/Timespan.as
+END
+URL.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/32/trunk/com/google/analytics/utils/URL.as
+END
+Environment.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32/trunk/com/google/analytics/utils/Environment.as
+END
+Protocols.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/com/google/analytics/utils/Protocols.as
+END
+Version.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/com/google/analytics/utils/Version.as
+END
+Variables.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/com/google/analytics/utils/Variables.as
+END

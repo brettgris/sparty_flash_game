@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32/trunk/com/google/analytics/campaign
+END
+CampaignKey.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/com/google/analytics/campaign/CampaignKey.as
+END
+CampaignManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/32/trunk/com/google/analytics/campaign/CampaignManager.as
+END
+CampaignInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/com/google/analytics/campaign/CampaignInfo.as
+END
+CampaignTracker.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/32/trunk/com/google/analytics/campaign/CampaignTracker.as
+END

@@ -1,0 +1,1 @@
+﻿package com.eaglesandcobras.common.mvc{	import flash.display.Sprite;	import com.eaglesandcobras.common.events.ViewEvent;		public class View extends Sprite{		public function View(){		}	}}

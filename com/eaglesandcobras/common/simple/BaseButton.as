@@ -1,0 +1,1 @@
+﻿package com.eaglesandcobras.common.simple{	import flash.display.Sprite;		public class BaseButton extends Sprite{				public function BaseButton(){			super();			init();		}				private function init():void {			this.buttonMode = true;			this.mouseChildren = false;		}	}}

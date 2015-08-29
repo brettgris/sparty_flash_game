@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/com/eaglesandcobras/common/mvc
+END
+App.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/com/eaglesandcobras/common/mvc/App.as
+END
+Model.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/com/eaglesandcobras/common/mvc/Model.as
+END
+View.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/com/eaglesandcobras/common/mvc/View.as
+END

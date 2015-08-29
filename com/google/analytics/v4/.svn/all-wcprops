@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32/trunk/com/google/analytics/v4
+END
+GoogleAnalyticsAPI.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/com/google/analytics/v4/GoogleAnalyticsAPI.as
+END
+Configuration.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/com/google/analytics/v4/Configuration.as
+END
+Tracker.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32/trunk/com/google/analytics/v4/Tracker.as
+END
+Bridge.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/32/trunk/com/google/analytics/v4/Bridge.as
+END

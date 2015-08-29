@@ -1,0 +1,1 @@
+﻿package com.eaglesandcobras.common.data{	import flash.events.Event;	import flash.events.EventDispatcher;		public class RSSLoader extends EventDispatcher{		private var _call:String;				public function RSSLoader($call:String){			super();						_call = $call;						init();		}				private function init():void{					}	}}
